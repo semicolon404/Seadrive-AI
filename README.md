@@ -39,7 +39,7 @@ Meanwhile go to https://lmstudio.ai/ and download and install your version (you 
 
 After finishing you shall select a model and download it
 
-While that’s downloading download the main Seadrive AI file and find the exe under debug
+While that’s downloading download the main Seadrive AI file and find the .exe under debug
 
 Create a shortcut to it for easy access
 
